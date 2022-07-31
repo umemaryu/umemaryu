@@ -34,3 +34,9 @@
 <a href= "https://github.com/umemaryu" target= "_blank" >
   <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+##
+* ✉️ [ryutaro1069@gmail.com](mailto:ryutaro1069@gmail.com)
+
+
+
