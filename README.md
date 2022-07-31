@@ -2,7 +2,6 @@
 
 <h3>I have experience with</h3>
 
-
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -28,6 +27,10 @@
 
 </p>
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+<h3>How to reach me</h3>
+<a href= "https://www.linkedin.com/in/ryutaro-umezuki-43b24521a/" target= "_blank" >
+  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href= "https://github.com/umemaryu" target= "_blank" >
+  <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
