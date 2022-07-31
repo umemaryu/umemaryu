@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! Nice to meet you 👋
 
 <!--
 **umemaryu/umemaryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
