@@ -35,8 +35,8 @@
   <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<h3>Blog</h3>
-[React & GraphQL with MVP](https://dev.to/ryutaro/react-graphql-with-mvp-3gj8-temp-slug-727791?preview=091619d5e94351c22539417eae70cbea47b6e54611af08513afe6f9ba065f8878b33fe8ed3a6a1c9570a9dd7c728d4a9cfedd0c2a8a635dac55558e0)
+### Blog
+* [React & GraphQL with MVP](https://dev.to/ryutaro/react-graphql-with-mvp-3gj8-temp-slug-727791?preview=091619d5e94351c22539417eae70cbea47b6e54611af08513afe6f9ba065f8878b33fe8ed3a6a1c9570a9dd7c728d4a9cfedd0c2a8a635dac55558e0)
 
 <h3>My personal project</h3>
 An online museum!
