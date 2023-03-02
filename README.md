@@ -36,4 +36,5 @@
 </a>
 
 ### Blog
+* [Create Maintenance Notification for SAP S/4HANA using IBM Watson and SAP services](https://blogs.sap.com/2023/02/27/create-maintenance-notification-for-sap-s-4hana-using-ibm-watson-and-sap-services/)
 * [React & GraphQL with MVP](https://dev.to/ryutaro/react-graphql-with-mvp-16m6)
