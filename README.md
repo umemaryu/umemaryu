@@ -35,6 +35,5 @@
   <img src = "https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-### Blog
-* [Create Maintenance Notification for SAP S/4HANA using IBM Watson and SAP services](https://blogs.sap.com/2023/02/27/create-maintenance-notification-for-sap-s-4hana-using-ibm-watson-and-sap-services/)
-* [React & GraphQL with MVP](https://dev.to/ryutaro/react-graphql-with-mvp-16m6)
+### Blog posts
+* [SAP](https://people.sap.com/ryutaro.umezuki#content:blogposts)
